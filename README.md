@@ -108,16 +108,11 @@ The DFT surface energies are taken from the [SurFF database](https://doi.org/10.
 
 ---
 
-## License
-
-The Python code is licensed under the [MIT License](LICENSE).
-
----
-
 ## Citation
 
 The manuscript describing this work is in preparation. The citation will be added here after publication.
-The data is stored on Zenodo - 10.5281/zenodo.24072781
+The data is stored on Zenodo - 10.5281/zenodo.24385344
+
 
 If you use the surface-energy data, please also cite the SurFF paper and dataset listed below.
 
